@@ -35,7 +35,7 @@ Prueba1.java
 
 ### Ejemplo Avanzado 📋
 
-[Cuenta.java]https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/Cuenta.java)
+[Cuenta.java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/Cuenta.java)
 
 ```
 Cuenta.java
