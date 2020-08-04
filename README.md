@@ -1,32 +1,59 @@
 # Java-01-Modularizacion
-java-00-programming-introduction
-Initial presentation of the course Programming Fundamentals 1. For the model class to be used in the presentations in the course.
+## Topic 🚀
 
-Topic 🚀
-Programming introduction.
+_Modularicación._
 
-Latex template 📋
-java-00-programming-introduction.tex
 
-java-00-programming-introduction.tex
-PDF presentation 📋
-java-00-programming-introduction.pdf
+### Latex template 📋
 
-java-00-programming-introduction.pdf
-Basic examples 📋
-HelloWorld.java
+[Java-01-Modularizacion.tex](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java-01-Modularizacion.tex)
 
-HelloWorld.java
-Overflow.java
+```
+Java-01-Modularizacion.tex
+```
 
-Overflow.java
-Advanced examples 📋
-Course.java
+### PDF presentación 📋
 
-Course.java
-Videos 📋
-Programming introduction
+[Java-01-Modularizacion.pdf](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java-01-Modularizacion.pdf)
 
-Authors ✒️
-Richart Smith Escobedo Quispe - 100% - rescobedoq
-Juan Pérez - 0% - [jperez]
+```
+Java-01-Modularizacion.pdf
+```
+
+### Ejemplos Básicos 📋
+
+[Prueba.java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/Prueba.java)
+
+```
+Prueba.java
+```
+[Prueba1.java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/Prueba1.java)
+
+```
+Prueba1.java
+```
+
+### Ejemplo Avanzado 📋
+
+[Cuenta.java]https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/Cuenta.java)
+
+```
+Cuenta.java
+```
+[CuentaApp.java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Latex/Java/CuentaApp.java)
+
+```
+CuentaApp.java
+```
+
+### Videos 📋
+
+[![Ejercicios con metodos - java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/java-00-programming-introduction-first.png)](https://youtu.be/pM8--ZDZ-I4 "Ejercicios con metodos - java")
+
+
+
+## Authors ✒️
+
+* **Coaquira Mamani Cesar Paul** - *100%* - [CesarPaulCoaquiraMamani](https://github.com/CesarPaulCoaquiraMamani)
+* **Arocutipa Gutierrez Luis Edgar** - *100%* - [LuisArocutipa](https://github.com/LuisArocutipa)
+
