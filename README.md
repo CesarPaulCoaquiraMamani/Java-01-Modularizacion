@@ -1,7 +1,7 @@
 # Java-01-Modularizacion
 ## Topic 🚀
 
-_Modularicación._
+_Modularización._
 
 
 ### Latex template 📋
@@ -54,6 +54,6 @@ CuentaApp.java
 
 ## Authors ✒️
 
-* **Coaquira Mamani Cesar Paul** - *100%* - [CesarPaulCoaquiraMamani](https://github.com/CesarPaulCoaquiraMamani)
-* **Arocutipa Gutierrez Luis Edgar** - *100%* - [LuisArocutipa](https://github.com/LuisArocutipa)
+* **Coaquira Mamani Cesar Paul** - *50%* - [CesarPaulCoaquiraMamani](https://github.com/CesarPaulCoaquiraMamani)
+* **Arocutipa Gutierrez Luis Edgar** - *50%* - [LuisArocutipa](https://github.com/LuisArocutipa)
 
