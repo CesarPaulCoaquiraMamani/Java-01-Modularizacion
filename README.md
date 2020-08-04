@@ -48,7 +48,7 @@ CuentaApp.java
 
 ### Videos 📋
 
-[![Ejercicios con metodos - java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Ejercicios%20con%20m%C3%A9todos%20-%20Java.mp4)](https://youtu.be/pM8--ZDZ-I4 "Ejercicios con metodos - java")
+[![Ejercicios con metodos - java](https://github.com/CesarPaulCoaquiraMamani/Java-01-Modularizacion/blob/master/Ejercicios%20con%20m%C3%A9todos%20-%20Java.png)](https://youtu.be/pM8--ZDZ-I4 "Ejercicios con metodos - java")
 
 
 
